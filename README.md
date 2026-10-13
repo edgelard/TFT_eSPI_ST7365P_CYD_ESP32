@@ -18,6 +18,7 @@
 * https://goldenmorninglcd.com/tft-display/3.5-inch-320x480-st7365p-g5-gmt035-03-t350c9-c40-03-v2/
 * [ST7365P Datasheet](https://www.farnell.com/datasheets/4784776.pdf)
 tested on Arduino IDE 2.3.10 with TFT_eSPI 2.5.43
+<img width="1008" height="756" alt="1791871920407" src="https://github.com/user-attachments/assets/debbf69f-b54e-4b2c-bd68-dc00e281e3c5" />
 
 ---
 
